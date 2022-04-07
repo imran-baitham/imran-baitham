@@ -32,7 +32,6 @@
   
   <br></br>
     <img src="https://activity-graph.herokuapp.com/graph?username=imran-baitham&theme=redical&hide_border=true">
-<!-- https://activity-graph.herokuapp.com/graph?username=imran-baitham&theme=redical&hide_border=true -->
 <br></br>
 
 ## About Me
