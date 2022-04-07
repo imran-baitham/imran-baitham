@@ -31,7 +31,7 @@
 <div/>
   
   <br></br>
-[![imran-baitham GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imran-baitham&theme=redical&hide_border=true)](https://git.io/KukretiShubham)
+[![imran-baitham GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imran-baitham&theme=redical&hide_border=true)](https://git.io/imran-baitham)
 <br></br>
 
 ## About Me
