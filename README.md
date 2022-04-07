@@ -7,7 +7,6 @@
   <a href="https://github.com/imran-baitham" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-baitham&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
   </a>
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical" />
  </p>
 
 ## 🔧 Technologies & 📖 Languages
@@ -32,7 +31,7 @@
 <div/>
   
   <br></br>
-[![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KukretiShubham&theme=redical&hide_border=true)](https://git.io/KukretiShubham)
+[![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imran-baitham&theme=redical&hide_border=true)](https://git.io/KukretiShubham)
 <br></br>
 
 ## About Me
