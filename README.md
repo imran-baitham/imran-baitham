@@ -30,6 +30,10 @@
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div/>
+  
+  <br></br>
+[![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KukretiShubham&theme=redical&hide_border=true)](https://git.io/KukretiShubham)
+<br></br>
 
 ## About Me
 
