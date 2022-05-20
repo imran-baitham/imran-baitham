@@ -1,4 +1,23 @@
-###  Hello Awesome Developers 👋
+
+<h2 style = "text-align: center;"><strong>Hi, I am ImranBaitham</strong></h2>
+
+
+![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
+<p style = "text-align: center;"><strong>
+	I am a self-taught developer, who loves exploring different technologies. 
+	Also, I love and contribute to OpenSource. 
+</strong>
+</p>
+<p style = "text-align: center;"><strong>
+	My interest lies in Web Development, Data Science and Blockchain technology.
+</strong>
+</p>
+<p style = "text-align: center;"><strong>
+	As a Hobby, I like to play Chess and read Physics books. I also love Cosmology, Space or anything related to it.
+</strong>
+</p>
+
+![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
 <p>
   <a href="https://github.com/imran-baitham" >
