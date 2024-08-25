@@ -58,10 +58,9 @@
 </div>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
-- **LinkedIn:** [Ⓘⓜⓡⓐⓝ Ⓑⓐⓘⓣⓗⓐⓜ](https://www.linkedin.com/in/rashid-ali-918823226](https://www.linkedin.com/in/imran-baitham))
-- **Website:** [ⒷⓐⓡⓓⓊⓘ  .⃝Ⓒⓞⓜ](https://yourwebsite.com](https://www.bardui.com/))
+- **LinkedIn:** [Ⓘⓜⓡⓐⓝ Ⓑⓐⓘⓣⓗⓐⓜ](https://www.linkedin.com/in/imran-baitham)
+- **Website:** [ⒷⓐⓡⓓⓊⓘ ⃝Ⓒⓞⓜ](https://www.bardui.com/)
 - **Email:** `imranbaitham001@gmail.com`
-
 
 ###
 
