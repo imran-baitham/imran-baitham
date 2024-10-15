@@ -29,16 +29,16 @@
  </p>
 
 ## 🅼🆈 🆂🅺🅸🅻🅻🆂
-- **✓ 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐞𝐱𝐭@𝐥𝐚𝐭𝐞𝐬𝐭, 𝐑𝐞𝐝𝐮𝐱, 𝐙𝐮𝐬𝐭𝐚𝐧𝐝, 𝐉𝐨𝐭𝐚𝐢, 𝐱𝐬𝐭𝐚𝐭𝐞 𝐦𝐚𝐜𝐡𝐢𝐧𝐞, (𝐂𝐒𝐒𝟑, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒, 𝐅𝐨𝐦𝐚𝐧𝐭𝐢𝐜-𝐔𝐈, 𝐬𝐭𝐲𝐥𝐞𝐝-𝐜𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬) 𝐚𝐧𝐝 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐮𝐬𝐢𝐧𝐠 𝐑𝐞𝐚𝐜𝐭 𝐐𝐮𝐞𝐫𝐲 𝐚𝐬 𝐚 𝐑𝐞𝐝𝐮𝐱 𝐫𝐞𝐩𝐥𝐚𝐜𝐞𝐦𝐞𝐧𝐭:**
-- **✓ 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬, 𝐚𝐧𝐝 𝐀𝐏𝐈 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭:** 
-- **✓ 𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐢𝐧 𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐚𝐧𝐝 𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞 𝐟𝐨𝐫 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:** 
-- **✓ 𝐄𝐱𝐭𝐞𝐧𝐬𝐢𝐯𝐞 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐜𝐫𝐨𝐬𝐬-𝐛𝐫𝐨𝐰𝐬𝐞𝐫 𝐜𝐨𝐦𝐩𝐚𝐭𝐢𝐛𝐢𝐥𝐢𝐭𝐲 𝐚𝐧𝐝 𝐆𝐢𝐭 (𝐠𝐢𝐭-𝐟𝐥𝐨𝐰):**
-- **✓ 𝐒𝐤𝐢𝐥𝐥𝐞𝐝 𝐢𝐧 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐍𝐗 𝐌𝐨𝐧𝐨𝐫𝐞𝐩𝐨, 𝐓𝐮𝐫𝐛𝐨𝐫𝐞𝐩𝐨, 𝐚𝐧𝐝 𝐦𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐥𝐚𝐫𝐠𝐞 𝐜𝐨𝐝𝐞𝐛𝐚𝐬𝐞𝐬:**
-- **✓ 𝐅𝐥𝐮𝐞𝐧𝐭 𝐢𝐧 𝐛𝐨𝐭𝐡 𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐚𝐧𝐝 𝐯𝐞𝐫𝐛𝐚𝐥 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐰𝐢𝐭𝐡 𝐡𝐚𝐧𝐝𝐬-𝐨𝐧 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:**
+- **4+ years of experience with React, Next.js (latest), Redux, Zustand, Jotai, xstate machine, and CSS frameworks like CSS3, Bootstrap, Tailwind CSS, Fomantic-UI, and styled-components. Expertise in TypeScript and using React Query as a Redux replacement.**
+- **Expertise in Node.js, Express, and API development.** 
+- **Proficient in MongoDB and Firebase for backend databases.** 
+- **Extensive knowledge of cross-browser compatibility and Git (git-flow).**
+- **Skilled in working with NX Monorepo, Turborepo, and managing large codebases.**
+- **Fluent in both written and verbal English with hands-on project management experience.**
 
 ## 🅰🅱🅾🆄🆃 🅼🅴
 
-🍁🎃🍂 𝐈'𝐦 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 🥇, 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞 🎨 𝐚𝐧𝐝 𝐩𝐞𝐫𝐜𝐞𝐩𝐭𝐢𝐯𝐞 🔭 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐰𝐢𝐭𝐡 𝐚 𝐡𝐚𝐧𝐝𝐬-𝐨𝐧 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡 𝐭𝐨 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐧𝐝 𝐚𝐧 𝐮𝐧𝐞𝐧𝐝𝐢𝐧𝐠 𝐭𝐡𝐢𝐫𝐬𝐭 𝐟𝐨𝐫 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 🎓.𝐈'𝐦 𝐚𝐥𝐰𝐚𝐲𝐬 𝐨𝐩𝐞𝐧 𝐭𝐨 𝐧𝐞𝐰 𝐢𝐝𝐞𝐚𝐬 𝐚𝐧𝐝 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬.｡°✩
+I'm a passionate 🥇, creative 🎨, and perceptive 🔭 JavaScript Engineer with a hands-on approach to problem-solving and an unending thirst for knowledge 🎓. I'm always open to new ideas and opportunities 🍁🎃🍂.
 
 ##
 <div align="left">
