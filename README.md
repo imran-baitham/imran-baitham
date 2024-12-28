@@ -74,5 +74,5 @@ I'm a passionate 🥇, creative 🎨, and perceptive 🔭 JavaScript Engineer wi
 
 ###
 
-
+<a href="https://app.daily.dev/imranbaitham"><img src="https://api.daily.dev/devcards/v2/l1myz12MpKXwb5wRaJW5N.png?type=wide&r=2jo" width="652" alt="imran baitham's Dev Card"/></a>
 
