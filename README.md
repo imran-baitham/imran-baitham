@@ -29,7 +29,7 @@
  </p>
 
 ## 🅼🆈 🆂🅺🅸🅻🅻🆂
-- **4+ years of experience with React, Next.js (latest), Redux, Zustand, Jotai, xstate machine, and CSS frameworks like CSS3, Bootstrap, Tailwind CSS, Fomantic-UI, and styled-components. Expertise in TypeScript and using React Query as a Redux replacement.**
+- **5+ years of experience with React, Next.js (latest), Redux, Zustand, Jotai, xstate machine, and CSS frameworks like CSS3, Bootstrap, Tailwind CSS, Fomantic-UI, and styled-components. Expertise in TypeScript and using React Query as a Redux replacement.**
 - **Expertise in Node.js, Express, and API development.** 
 - **Proficient in MongoDB and Firebase for backend databases.** 
 - **Extensive knowledge of cross-browser compatibility and Git (git-flow).**
