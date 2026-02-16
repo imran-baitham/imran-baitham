@@ -8,7 +8,7 @@ Here are a couple of projects I've developed:
 
 ## Projects
 
-1. [**imrandev.site**](https://www.imrandev.site): Your Next-Gen MERN, Next.js, Full-Stack Developer for Scalable Web Apps.
+1. [**imransite.com**](https://www.imransite.com): Your Next-Gen MERN, Next.js, Full-Stack Developer for Scalable Web Apps.
    
 2. [**bardui.com**](https://www.bardui.com): The largest Tailwind CSS community. It receives 2k+ monthly page views.
    
