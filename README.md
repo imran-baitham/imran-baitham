@@ -18,6 +18,6 @@ Here are a couple of projects I've developed:
 
 Beyond personal projects, I have also built and published NPM packages, developed Google Chrome extensions, and delivered multiple MERN, MonoRepo, full-stack applications.
 
-I’ve worked on many client projects, which you can explore in my [portfolio](https://www.imrandev.site/work#client-projects) and on [Upwork](https://www.upwork.com/freelancers/imranbaitham). I focus on performance, clean UI, accessibility, and scalable architecture.
+I’ve worked on many client projects, which you can explore in my [portfolio](https://www.imransite.com/work#client-projects) and on [Upwork](https://www.upwork.com/freelancers/imranbaitham). I focus on performance, clean UI, accessibility, and scalable architecture.
 
 My goal is to continuously build innovative, impactful, and high-quality software that I’m proud of.
