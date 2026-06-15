@@ -10,7 +10,7 @@ Here are a couple of projects I've developed:
 
 1. [**imransite.com**](https://www.imransite.com): Your Next-Gen MERN, Next.js, Full-Stack Developer for Scalable Web Apps.
    
-2. [**bardui.com**](https://www.bardui.com): The largest Tailwind CSS community. It receives 2k+ monthly page views. 🚨 Domain Expired
+2. [**bardui.com**](https://www.bardui.com): The largest Tailwind CSS community. It receives 3k+ monthly page views. 🚨 Domain Expired
    
 4. [**zilink.co**](https://www.zilink.co): Create Shorten links built in Svelte, SvelteKit, PWA.
 
